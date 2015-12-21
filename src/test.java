@@ -4,5 +4,6 @@ public class test {
 		System.out.println("Hello World");
 		
 		System.out.println("込込込込");
+		
 	}
 }
